@@ -10,6 +10,7 @@
 
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure?style=for-the-badge&logo=clojure&logoColor=white)
 <!--
 **omarcospo/omarcospo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
