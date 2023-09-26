@@ -1,4 +1,4 @@
-# Marcos Felipe
+# Marcos Felipe 🇧🇷 🇺🇸 🇮🇹 
 
 - 🎓 I'm currently 19 years old and pursuing a degree in **Accountancy** at **FEA-USP**.
 - 💻 I'm passionate about technology and finance, and I'm on a journey to combine the two. My goal is to leverage data-driven insights to make informed financial decisions and explore the intersection of finance and technology.
