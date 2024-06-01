@@ -3,13 +3,6 @@
 - 🎓 I'm currently 20 years old and pursuing a degree in **Accountancy** at **FEA-USP**.
 - 💻 I'm passionate about technology and finance, and I'm on a journey to combine the two. My goal is to leverage data-driven insights to make informed financial decisions and explore the intersection of finance and technology.
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcospo&hide_progress=true&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omarcospo" />
-</a>
-
 **Platform**
 -----
 
