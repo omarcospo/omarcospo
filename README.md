@@ -9,10 +9,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/omarcospo/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarcospo&repo=dotfiles" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/omarcospo/nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarcospo&repo=nvim" />
 </a>
 
