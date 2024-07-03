@@ -9,8 +9,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-<a href="https://github.com/omarcospo/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarcospo&repo=dotfiles" />
+<a href="https://github.com/omarcospo/nixos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarcospo&repo=nixos" />
 </a>
 <a href="https://github.com/omarcospo/nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarcospo&repo=nvim" />
